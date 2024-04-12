@@ -5,6 +5,7 @@
 [![Telegram Chat][tg-badge]][tg-url]
 
 **Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol**
+..
 
 ![](./assets/reth-beta.png)
 
